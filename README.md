@@ -14,9 +14,9 @@ Minor - Computer Science
 ## 📂 Portfolio Structure
 - **[Home](https://ilhanmohamed.github.io/)** – Introduction, personal brand statement, and contact info.
 - **[Skills](https://github.com/ilhanmo/ilhanmohamed/blob/main/skills.html)** – My technical and soft skills in detail.
-- **[Projects](https://ilhanmohamed.github.io/projects.html)** – Showcase of my work, including problem statements, solutions, and impact.
-- **[Work Experience](https://ilhanmohamed.github.io/experience.html)** – Professional roles, key achievements, and technologies used.
-- **[Education](https://ilhanmohamed.github.io/education.html)** – Courses, certifications, and learning experiences.
+- **[Projects](https://github.com/ilhanmo/ilhanmohamed/blob/main/projects.html)** – Showcase of my work, including problem statements, solutions, and impact.
+- **[Work Experience](https://github.com/ilhanmo/ilhanmohamed/blob/main/Work%20Experience)** – Professional roles, key achievements, and technologies used.
+- **[Education](https://github.com/ilhanmo/ilhanmohamed/blob/main/education.html)** – Courses, certifications, and learning experiences.
 
 ## 🚀 How to Use This Portfolio
 - Click on the links above to navigate through different sections.
